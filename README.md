@@ -13,7 +13,7 @@ Only tested on MacOS machine:
   source ~/.gitpr.sh
   ```
 
-4. Exit your Terminal windows, and you should be able to use it in any git repo folder.
+4. Exit and reopen your Terminal windows, and you should be able to use it in any git repo folder.
 
 
 # How to use?

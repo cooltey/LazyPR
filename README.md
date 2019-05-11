@@ -1,4 +1,4 @@
-A simple command shell script for lazy people to pull a Pull Request from GitHub
+A simple shell script for lazy people to pull a Pull Request from GitHub 
 
 # Set up
 Only tested on MacOS machine:
